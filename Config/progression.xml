@@ -1,0 +1,4 @@
+<progression>
+    <csv xpath="/progression/perks/perk[@name='perkLightArmor']/effect_group[1]/passive_effect[@name='RecipeTagUnlocked']/@tags" delim="," op="add">armorFootballHelmet,armorFootballHelmetZU</csv>
+    <csv xpath="/progression/perks/perk[@name='perkHeavyArmor']/effect_group[1]/passive_effect[@name='RecipeTagUnlocked']/@tags" delim="," op="add">armorSwatHelmet</csv>
+</progression>
