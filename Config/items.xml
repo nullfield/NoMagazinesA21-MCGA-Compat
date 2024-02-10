@@ -1,6 +1,6 @@
 <items>
     <append xpath="/items/item[@name='armorMiningHelmet']">
-        <property name="UnlockedBy" value="perkArtOfMiningLantern"/>
+        <property name="UnlockedBy" value="perkArtOfMiningDamage,perkAdvancedEngineering"/>
     </append>
 
     <append xpath="/items/item[@name='armorSwatHelmet']">
